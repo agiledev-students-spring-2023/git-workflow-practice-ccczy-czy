@@ -3,3 +3,7 @@ I found the article [Twitter Architecture 2022 vs 2012](https://blog.bytebytego.
 
 ## Comment from Kai Elwood-Dieu
 I thought that this article did a good job explaining the differences between how twitter used to work in 2012 and how it works today. I was impressed with how the author was able to include detailed diagrams of how the API works. It's too bad that they are removing free access to the API! So sad.
+
+
+## Comment from Diana Yepes
+This article was an interesting read!  I specifically liked the part on Code First v.s. API First software development philosophy, since it explains in depth why API first is greatly advantageous and preferred in the developer community.   
